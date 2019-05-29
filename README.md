@@ -1,2 +1,2 @@
-# tjmoore1986.github.io
+# tjmoore
 Personal website for TJ Moore
